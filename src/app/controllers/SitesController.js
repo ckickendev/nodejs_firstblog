@@ -1,6 +1,4 @@
-
-
-class SitesController{
+class SitesController {
     home(req, res) {
         res.render('home');
     }
